@@ -2,5 +2,7 @@
 
 GENETIC ALGORITHM (GA)
 
-**PURPOSE
-**
+**PURPOSE**
+This purpose of this project is to 
+
+
